@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.44"
+    "@napi-rs/canvas": "^0.1.49"
   },
   "devDependencies": {
     "aoi.js": "^6.7.1",
